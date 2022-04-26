@@ -1,4 +1,4 @@
-# Vue.js JWT Authentication with Vuex and Vue Router
+# Vue login system with Node APIs
 
 
 ## Project setup
